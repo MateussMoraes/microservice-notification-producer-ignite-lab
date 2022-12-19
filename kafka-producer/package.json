@@ -1,0 +1,6 @@
+{
+  "type": "module",
+  "dependencies": {
+    "kafkajs": "^2.2.3"
+  }
+}
